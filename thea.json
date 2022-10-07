@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1665152188",
-      "filename": "lineage-17.1-20221007-UNOFFICIAL-thea-signed.zip",
+      "datetime": "1665156425",
+      "filename": "lineage-17.1-20221007-UNOFFICIAL-thea-go-signed.zip",
       "id": "mwp83ol33hu8b4tvz7blr26ox01ruq302zwwetmrus6uym9cog",
       "romtype": "UNOFFICIAL",
-      "size": "TO BE ADDED",
-      "url": "TO BE ADDED",
+      "size": "443774687",
+      "url": "https://www.dropbox.com/s/mjr29qia8py1wlo/lineage-17.1-20221007-UNOFFICIAL-thea-go-signed.zip.zip?dl=1",
       "version": "17.1"
     }
   ]
