@@ -1,12 +1,12 @@
 {
   "response": [
     {
-      "datetime": "1665240304",
-      "filename": "lineage-17.1-20221008-UNOFFICIAL-thea-go-signed.zip",
-      "id": "c0af1703sdp7817x0lgfk0j4xxzx29kxnd7dlmq673gsna7kd6",
+      "datetime": "1665822877",
+      "filename": "lineage-17.1-20221015-UNOFFICIAL-thea-go-signed.zip",
+      "id": "0zmh92etxwndwjk8tg6kmqsicq67nz5972o0dzg9nkx3hmw67h",
       "romtype": "UNOFFICIAL",
-      "size": "443805542",
-      "url": "https://www.dropbox.com/s/mjr29qia8py1wlo/lineage-17.1-20221008-UNOFFICIAL-thea-go-signed.zip.zip?dl=1",
+      "size": "443789438",
+      "url": "https://www.dropbox.com/s/ulrkrkh4c6p19uf/lineage-17.1-20221015-UNOFFICIAL-thea-go-signed.zip?dl=1",
       "version": "17.1"
     }
   ]
