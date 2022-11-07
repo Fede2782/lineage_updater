@@ -1,1 +1,20 @@
-
+{
+    "datetime": "",
+    "donate_url": "",
+    "error": false,
+    "filehash": "",
+    "filename": "",
+    "id": "",
+    "maintainers": [
+        {
+            "github_username": "Fede2782",
+            "main_maintainer": true,
+            "name": "Fede2782"
+        }
+    ],
+    "news_url": "https://t.me/PixelExperience",
+    "size": "",
+    "url": "",
+    "version": "eleven_plus",
+    "website_url": "https://github.com/Fede2782/lineage_updater/releases"
+}
