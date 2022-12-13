@@ -1,6 +1,6 @@
 {
     "version": 1,
     "versionCode": 1000000,
-    "zipUrl": https://github.com/Fede2782/lineage_updater/raw/main/bootanimation.zip,
-    "changelog": https://raw.githubusercontent.com/Fede2782/lineage_updater/main/thea_changelog.md
+    "zipUrl": "https://github.com/Fede2782/lineage_updater/raw/main/bootanimation.zip",
+    "changelog": "https://raw.githubusercontent.com/Fede2782/lineage_updater/main/thea_changelog.md"
 }
